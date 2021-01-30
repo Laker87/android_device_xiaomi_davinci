@@ -21,6 +21,5 @@
     <!-- Names of the key handler classes -->
     <string-array name="config_deviceKeyHandlerClasses" translatable="false">
         <item>org.lineageos.keyhandler.KeyHandler</item>
-    </string-array>
 
 </resources>
